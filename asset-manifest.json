@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https://github.com/chjhansi97/react-xstate-colourchanger/static/css/main.26955afe.chunk.css",
-    "main.js": "/https://github.com/chjhansi97/react-xstate-colourchanger/static/js/main.59982a5f.chunk.js",
-    "main.js.map": "/https://github.com/chjhansi97/react-xstate-colourchanger/static/js/main.59982a5f.chunk.js.map",
-    "runtime-main.js": "/https://github.com/chjhansi97/react-xstate-colourchanger/static/js/runtime-main.46964cad.js",
-    "runtime-main.js.map": "/https://github.com/chjhansi97/react-xstate-colourchanger/static/js/runtime-main.46964cad.js.map",
-    "static/js/2.6018119e.chunk.js": "/https://github.com/chjhansi97/react-xstate-colourchanger/static/js/2.6018119e.chunk.js",
-    "static/js/2.6018119e.chunk.js.map": "/https://github.com/chjhansi97/react-xstate-colourchanger/static/js/2.6018119e.chunk.js.map",
-    "index.html": "/https://github.com/chjhansi97/react-xstate-colourchanger/index.html",
-    "static/css/main.26955afe.chunk.css.map": "/https://github.com/chjhansi97/react-xstate-colourchanger/static/css/main.26955afe.chunk.css.map",
-    "static/js/2.6018119e.chunk.js.LICENSE.txt": "/https://github.com/chjhansi97/react-xstate-colourchanger/static/js/2.6018119e.chunk.js.LICENSE.txt"
+    "main.css": "/chjhansi97/react-xstate-colourchanger/static/css/main.26955afe.chunk.css",
+    "main.js": "/chjhansi97/react-xstate-colourchanger/static/js/main.1b225ded.chunk.js",
+    "main.js.map": "/chjhansi97/react-xstate-colourchanger/static/js/main.1b225ded.chunk.js.map",
+    "runtime-main.js": "/chjhansi97/react-xstate-colourchanger/static/js/runtime-main.eb3e2231.js",
+    "runtime-main.js.map": "/chjhansi97/react-xstate-colourchanger/static/js/runtime-main.eb3e2231.js.map",
+    "static/js/2.6018119e.chunk.js": "/chjhansi97/react-xstate-colourchanger/static/js/2.6018119e.chunk.js",
+    "static/js/2.6018119e.chunk.js.map": "/chjhansi97/react-xstate-colourchanger/static/js/2.6018119e.chunk.js.map",
+    "index.html": "/chjhansi97/react-xstate-colourchanger/index.html",
+    "static/css/main.26955afe.chunk.css.map": "/chjhansi97/react-xstate-colourchanger/static/css/main.26955afe.chunk.css.map",
+    "static/js/2.6018119e.chunk.js.LICENSE.txt": "/chjhansi97/react-xstate-colourchanger/static/js/2.6018119e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.46964cad.js",
+    "static/js/runtime-main.eb3e2231.js",
     "static/js/2.6018119e.chunk.js",
     "static/css/main.26955afe.chunk.css",
-    "static/js/main.59982a5f.chunk.js"
+    "static/js/main.1b225ded.chunk.js"
   ]
 }
